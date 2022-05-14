@@ -6,3 +6,5 @@ b = 1
 for i in range(5):
     a += 1
     b = a + 1
+c = b * a
+print('Thats the second commit in branch test1.')
