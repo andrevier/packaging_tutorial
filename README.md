@@ -10,7 +10,7 @@ I used the following links to learn how to upload something here:
 *[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 *[Site to choose a license](https://choosealicense.com/)
 
- Creating a test branch and test the merging concept.
+Creating a test branch and test the merging concept.
 ## Project Structure
 
 myprojectfile
